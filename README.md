@@ -8,10 +8,6 @@ The system classifies uploaded images as **Flood** or **Not Flood**, returns pre
 
 ## Demo
 
-### Interface Preview
-
-![Flood Classification Interface](interface.png)
-
 ### Interface Showcase Video
 
 ![Watch the interface demo](interface_showcase.gif)
